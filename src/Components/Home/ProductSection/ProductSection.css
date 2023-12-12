@@ -1,0 +1,107 @@
+.ProductHeader{
+    background-color: #2C65DA;
+    height: 200px;
+}
+
+.product_text{
+    
+    line-height: 200px;
+    height: 200px;
+    text-align: center;
+    
+}
+
+.choco_button{
+width: 437px;
+height: 45px;
+border-radius: 80px;
+background: #653425;
+color: #F7D047;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+border: none;
+}
+
+.choco_card{
+    padding: 13px;
+    border-radius: 25px;
+border: 6px solid #683626;
+background: #FFF;
+box-shadow: 20px 20px 40px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.choco_card_textDark{
+    color: #313030;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+.choco_card_ltr{
+    color: #989898;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+
+.choco_card_rupee{
+ color: #313030;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+
+
+.vanilla_button{
+    width: 437px;
+    height: 45px;
+    border-radius: 80px;
+    background: #F7D047;
+    color: #653425;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    border: none;
+    border: none;
+    }
+    
+    .vanilla_card{
+     padding: 13px;
+    border-radius: 25px;
+    border: 6px solid #F7D047;
+    background: #FFF;
+    box-shadow: 20px 20px 40px 0px rgba(0, 0, 0, 0.15); 
+    }
+    
+
+    .pista_button{
+        width: 437px;
+        height: 45px;
+        border-radius: 80px;
+        background: #9FDC3C;
+        color: #313030;
+        font-family: Poppins;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        border: none;
+        border: none;
+        }
+        
+        .pista_card{
+         padding: 13px;
+        border-radius: 25px;
+        border: 6px solid #9FDC3C;
+        background: #FFF;
+        box-shadow: 20px 20px 40px 0px rgba(0, 0, 0, 0.15);
+        }

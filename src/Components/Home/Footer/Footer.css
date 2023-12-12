@@ -1,0 +1,22 @@
+.footer_color{
+    height: 462px;
+    background: #2C65DA;
+}
+
+.footer_text{
+    color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+}
+
+.footer_reserve_text{
+ color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+
+}
