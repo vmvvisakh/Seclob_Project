@@ -7,7 +7,7 @@ import './Banner.css'
 function Banner() {
   return (
     <div>
-        <div className="banner-img" style={{backgroundImage: "url(" + { banner } + ")"}}>
+        <div className="banner-img" style={{backgroundImage: `url(${banner})`}}>
             <div className='row m-0 overlay'>
             <div className='col-md-2'>
                 <div>
