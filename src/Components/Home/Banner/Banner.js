@@ -1,12 +1,13 @@
 import React from 'react'
 import milmalogo from '../../../assets/Milma_logo.jpg'
+import banner from '../../../assets/Banner.jpg'
 import character from '../../../assets/Charecter.jpg'
 import './Banner.css'
 
 function Banner() {
   return (
     <div>
-        <div className="banner-img">
+        <div className="banner-img" style={{backgroundImage: "url(" + { banner } + ")"}}>
             <div className='row m-0 overlay'>
             <div className='col-md-2'>
                 <div>
